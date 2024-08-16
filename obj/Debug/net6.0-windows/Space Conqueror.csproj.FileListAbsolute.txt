@@ -1,0 +1,44 @@
+C:\Users\Errigour\source\repos\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.exe
+C:\Users\Errigour\source\repos\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.deps.json
+C:\Users\Errigour\source\repos\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.runtimeconfig.json
+C:\Users\Errigour\source\repos\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.dll
+C:\Users\Errigour\source\repos\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.pdb
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.MainForm.resources
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.Properties.Resources.resources
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.csproj.GenerateResource.cache
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.AssemblyInfoInputs.cache
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.AssemblyInfo.cs
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.csproj.CoreCompileInputs.cache
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.dll
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\refint\Space Conqueror.dll
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.pdb
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.genruntimeconfig.cache
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\ref\Space Conqueror.dll
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.PlayingForm.resources
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.NGNP.resources
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.DBayForm.resources
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.ShopForm.resources
+C:\Users\Errigour\source\repos\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.FightingForm.resources
+C:\Users\Errigour\Backup\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.exe
+C:\Users\Errigour\Backup\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.deps.json
+C:\Users\Errigour\Backup\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.runtimeconfig.json
+C:\Users\Errigour\Backup\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.dll
+C:\Users\Errigour\Backup\Space Conqueror\bin\Debug\net6.0-windows\Space Conqueror.pdb
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.DBayForm.resources
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.FightingForm.resources
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.MainForm.resources
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.NGNP.resources
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.PlayingForm.resources
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.Properties.Resources.resources
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space_Conqueror.ShopForm.resources
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.csproj.GenerateResource.cache
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.AssemblyInfoInputs.cache
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.AssemblyInfo.cs
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.csproj.CoreCompileInputs.cache
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.dll
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\refint\Space Conqueror.dll
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.pdb
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\Space Conqueror.genruntimeconfig.cache
+C:\Users\Errigour\Backup\Space Conqueror\obj\Debug\net6.0-windows\ref\Space Conqueror.dll
